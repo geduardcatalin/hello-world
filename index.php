@@ -18,7 +18,7 @@
 				echo "Your username is <b>".$username."</b> and your password is <b>".$password."</b>";
 			} else {
 				echo "You didn't enter anything!";
-			} 
+			}
 		}
 	?>
 </body>
